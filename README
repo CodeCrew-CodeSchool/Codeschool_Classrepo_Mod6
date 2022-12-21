@@ -1,0 +1,5 @@
+Use the Mailgun SMTP Email Setup Guide
+
+https://documentation.mailgun.com/en/latest/quickstart-sending.html#how-to-start-sending-email
+
+***Be mindful of the libraries in the Using statements and remember to add in your account credentials for the placeholder fields***
